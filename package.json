@@ -1,7 +1,7 @@
 {
   "name": "graphql-codegen-on-operations",
   "author": "IlijaNL",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "types": "lib/plugin.d.ts",
   "main": "lib/plugin.js",
   "files": [
