@@ -1,0 +1,1 @@
+"query GetUsers {\n  users {\n    name\n  }\n}"
