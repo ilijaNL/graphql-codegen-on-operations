@@ -1,0 +1,8 @@
+[
+  {
+    "behaviour": {},
+    "operationName": "GetUsers",
+    "operationType": "query",
+    "query": "query GetUsers { users { name } }"
+  }
+]
